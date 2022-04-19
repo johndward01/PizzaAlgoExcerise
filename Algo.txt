@@ -1,0 +1,5 @@
+- Call the pizza place 
+- Choose toppings
+- Place order
+- Wait for delivery driver
+- Pay for pizza
